@@ -1,6 +1,9 @@
-node-modules/
+node_modules/
 
 chave-api.txt
 .env
+
+uploads/*
+!uploads/.gitkeep
 
 package-lock.json
