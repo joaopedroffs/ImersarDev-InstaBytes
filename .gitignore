@@ -1,3 +1,6 @@
-node-nodule
+node-modules
 chave-api.txt
 .env
+
+uploads/*
+!uploads/.gitkeep
